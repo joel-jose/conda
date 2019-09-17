@@ -14,4 +14,4 @@ dependencies:
   - scipy
   - jupyter
   - scikit-learn
-  - tf-nightly-2.0-preview
+  - tensorflow
