@@ -11,3 +11,7 @@ dependencies:
   - partd
   - bokeh
   - dask
+  - scipy
+  - jupyter
+  - scikit-learn
+  - tf-nightly-2.0-preview
